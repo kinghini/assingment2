@@ -1,0 +1,8 @@
+2022-01-30 09:00:52,296 INFO this is my info for module log
+2022-01-30 09:00:52,299 WARNING this is my warniing log 
+2022-01-30 09:00:52,299 DEBUG this is my debug log 
+2022-01-30 09:00:52,300 ERROR this is my error log
+2022-01-30 09:10:31,215 INFO dict key function
+2022-01-30 09:10:46,444 INFO dictinary value
+2022-01-30 09:11:31,449 INFO dictinary key value
+2022-01-30 09:12:43,815 INFO dict key function

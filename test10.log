@@ -1,0 +1,26 @@
+2022-01-30 07:51:12,581 INFO this is my info log
+2022-01-30 07:51:12,585 WARNING this is my warniing log 
+2022-01-30 07:51:12,585 DEBUG this is my debug log 
+2022-01-30 07:51:12,586 ERROR this is my error log
+2022-01-30 07:52:28,536 INFO this is my info for module log
+2022-01-30 07:52:28,536 WARNING this is my warniing log 
+2022-01-30 07:52:28,536 DEBUG this is my debug log 
+2022-01-30 07:52:28,538 ERROR this is my error log
+2022-01-30 08:01:10,192 INFO list index function
+2022-01-30 08:01:10,192 ERROR not list
+2022-01-30 08:01:50,300 INFO list index function
+2022-01-30 08:01:50,300 ERROR not list
+2022-01-30 08:02:42,841 INFO list index function
+2022-01-30 08:02:42,842 ERROR not list
+2022-01-30 08:03:27,108 INFO list index function
+2022-01-30 08:03:27,113 ERROR not list
+2022-01-30 08:04:21,799 DEBUG pickle loaded: C:\Users\Windows\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-01-30 08:04:21,903 DEBUG pickle loaded: C:\Users\Windows\anaconda3\lib\typing.py
+2022-01-30 08:04:21,937 DEBUG pickle loaded: C:\Users\Windows\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-01-30 08:04:22,094 DEBUG pickle loaded: C:\Users\Windows\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-01-30 08:08:25,050 INFO list reversal
+2022-01-30 08:12:14,909 INFO list index function
+2022-01-30 08:12:14,909 ERROR not list
+2022-01-30 08:12:58,796 INFO list index function
+2022-01-30 08:12:58,796 ERROR not list
+2022-01-30 08:13:15,928 INFO list reversal
